@@ -1,0 +1,12 @@
+{
+	"name": "Fountain",
+	"app_id": "",
+	"v2": true,
+	"typescript": true,
+	"documentRoot": "dist",
+	"createDocumentRoot": "dist",
+	"watchPatterns": [
+		"app/js/*",
+		"!app/css/**/*"
+	]
+}
